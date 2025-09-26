@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Poo1110
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning msc statistics
+- 👋 Hi, I’m Pooja Ambupe
+- 👀 I’m interested in data science and analytics
+- 🌱 I’m currently completed my Msc in Statistics
 - - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
